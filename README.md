@@ -26,8 +26,7 @@ I'm an **Electrical and Electronics Engineering Undergraduate** at the South Eas
 <img src="https://img.shields.io/badge/ROS2%20Humble-22314E?style=for-the-badge&logo=ros&logoColor=white" /> 
 
 #### 📡 Design & Simulation:  
-<img src="https://img.shields.io/badge/Altium%20Designer-0076A8?style=for-the-badge&logo=altiumdesigner&logoColor=white" /> <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white" /> <img src="https://img.shields.io/badge/LTspice-000000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Quartus-0066CC?style=for-the-badge&logo=intel&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Altium%20Designer-0076A8?style=for-the-badge&logo=altiumdesigner&logoColor=white" /> <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white" />
 
 
 
