@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Dinushan Balasooriya
 
-<!--
-**dinushanbalasooriya/dinushanbalasooriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Electrical and Electronics Engineering Undergraduate** at the South Eastern University of Sri Lanka.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+* I'm passionate about **Robotics**, **Digital Systems Design**, **VLSI Design**, **PCB Design**, and **Electronic Product Design**.
+* I enjoy tackling complex problems and building innovative solutions in the field of electronics.
+
+### 📫 Reach Me
+
+* **Email:** savindudinushan001@gmail.com
+
+---
+
+#### 💻 Programming Languages
+
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+</p>
